@@ -38,18 +38,18 @@ These instructions will get you a copy of the project up and running on your loc
 
 To start the development server, run:
 
-    ```sh
+    
     npm start
-    ```
+    
 
 Open http://localhost:3000 to view the application in your browser.
 
 Running Storybook
 To start Storybook, run:
 
-    ```sh
-    npm run storybook
-    ```
     
+    npm run storybook
+    
+
 Open http://localhost:6006 to view Storybook in your browser.
 
